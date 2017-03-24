@@ -1,0 +1,29 @@
+body {
+font-family: courier new;
+font-size: 12px;
+font-weight: normal;
+text-align: center;
+text-decoration: none;
+background-color: #000000;
+}
+#Title {
+width: auto;
+height: 30px;
+background: #FA5858;
+margin: 75px auto;
+text-align: center;
+font-family: courier;
+font-size: 25px;
+}
+#main {
+width: 900px;
+height: 400px;
+background: #FFFFFF;
+margin: 25px auto;
+border: solid 2px #000000;
+}
+#lore{
+font-family: courier;
+font-size: 50px;
+font: #FFFFFF;
+}
